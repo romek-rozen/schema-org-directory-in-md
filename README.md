@@ -111,4 +111,4 @@ Dokumentacja jest udostępniona w celach edukacyjnych. Schematy Schema.org są s
 
 ---
 
-*Ostatnia aktualizacja: Styczeń 2025*
+*Ostatnia aktualizacja: 2025-09-18*

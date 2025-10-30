@@ -1,4 +1,4 @@
-Title: CreativeWork - Schema.org Type
+Title: CreativeWork
 
 URL Source: https://schema.org/CreativeWork
 

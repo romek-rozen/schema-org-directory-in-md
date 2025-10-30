@@ -16,3 +16,4 @@ https://schema.org/Service
 https://schema.org/Brand
 https://schema.org/FAQPage
 https://schemas-md/HowTo
+http://developers.google.com/search/docs/appearance/structured-data/article?hl=en

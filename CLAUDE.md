@@ -26,6 +26,7 @@ Schema_org/
 │   ├── HowTo.md
 │   ├── Event.md
 │   ├── Person.md
+│   ├── Article.md
 │   ├── WebPage.md
 │   ├── WebSite.md
 │   ├── Service.md
